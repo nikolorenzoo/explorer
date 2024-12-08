@@ -1,0 +1,18 @@
+{
+    "chain_name": "symphony",
+    "api": ["https://symphony-testnet-api.coco-node.com/"], 
+    "rpc": ["https://symphony-testnet-rpc.coco-node.com/"],
+    "snapshot_provider": "",
+    "sdk_version": "0.47.8",
+    "coin_type": "118",
+    "min_tx_fee": "32",
+    "addr_prefix": "symphony",
+    "logo": "/logos/symphony.png",
+    "assets": [{
+        "base": "note",
+        "symbol": "MLD",
+        "exponent": "6", 
+        "coingecko_id": "",
+        "logo": "/logos/symphony.png"
+    }]
+}
